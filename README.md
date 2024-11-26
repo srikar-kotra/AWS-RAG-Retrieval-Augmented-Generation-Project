@@ -3,10 +3,15 @@ This project implements a Retrieval-Augmented Generation (RAG) system using vari
 
 
 **AWS Services Used**
+
 **S3DataLoader**: For loading and storing data
+
 **OpenSearch:** For efficient information retrieval
+
 **Amazon Bedrock:** For accessing large language models
+
 **DynamoDB:** For database operations
+
 **SageMaker Studio:** For development and execution environment
 
 
