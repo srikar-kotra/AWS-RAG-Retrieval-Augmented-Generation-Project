@@ -1,4 +1,4 @@
-# AWS-RAG-Retrieval-Augmented-Generation-Project
+# AWS-RAG-Retrieval-Augmented-Generation
 This project implements a Retrieval-Augmented Generation (RAG) system using various AWS services. RAG is an AI technique that combines the power of large language models with the ability to retrieve relevant information from a knowledge base, enhancing the accuracy and relevance of generated responses.
 
 
@@ -28,13 +28,21 @@ Instance: ml.m5.12xlarge (for data loading)
 
 # Key Dependencies
 boto3
+
 sagemaker
+
 requests
+
 requests-aws4auth
+
 unstructured
+
 langchain
+
 langchain-aws
+
 opensearch-py
+
 langchain-community
 
 # Setup Instructions
