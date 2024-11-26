@@ -15,11 +15,16 @@ This project implements a Retrieval-Augmented Generation (RAG) system using vari
 **SageMaker Studio:** For development and execution environment
 
 
-**Development Environment
-SageMaker Studio Execution Instance**
+****Development Environment****
+
+**SageMaker Studio Execution Instance**
+
 Image: DataScience 3.0
+
 Kernel: Python 3
+
 Instance: ml.m5.12xlarge (for data loading)
+
 
 **Key Dependencies**
 boto3
